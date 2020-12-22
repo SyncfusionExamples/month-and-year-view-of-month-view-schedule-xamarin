@@ -1,2 +1,1 @@
-# month-and-year-view-of-month-view-schedule-xamarin
- How to get the month and year of month view in Xamarin.Forms Schedule (SfSchedule)
+**[View document in Syncfusion Xamarin Knowledge base](https://www.syncfusion.com/kb/12199/how-to-get-the-month-and-year-of-month-view-in-xamarin-forms-schedule-sfschedule)**
